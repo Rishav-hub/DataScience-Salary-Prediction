@@ -1,13 +1,17 @@
-## 🍞 Wheat Seed Segregation
-Wheat segregation is a very important task in agricultural domain for many industry using wheat as row material for making different products. Here in this project we have used a dataset which contains seven variables for three distinct types of wheat kernels: (Kama, Rosa, Canadian) designated as numerical variables 1, 2 & 3 respectively. The seven seed variables are:
+## 💽 Data Science Salary Prediction
+Here with the power of Machine Learning we have tried to make an application to predict salary of a Data Scientist according to the certains factors like No. of years person has worked, etc. We have considered certain factors -:
 
-- Area
-- Perimeter
-- Compactness
-- Kernel Length
-- Kernel Width
-- Asymmetry Coefficient
-- Kernel Groove Length
+ - work_year
+ - experience_level
+ - employment_type
+ - job_title
+ - salary
+ - salary_currency
+ - salary_in_usd
+ - employee_residence
+ - remote_ratio
+ - company_location
+ - company_size
 
 ### 👨‍💻 Software and account Requirement.
 
@@ -77,8 +81,8 @@ python app.py
 
 ### 👹Demo of application
 Home Page
-![image](https://user-images.githubusercontent.com/57321948/189115465-ae01824e-1d3b-4ad1-9c42-10615726185c.png)
+<img width="1277" alt="image" src="https://user-images.githubusercontent.com/57321948/189521564-8ca074e7-3670-4ab8-88ba-4ff32b5a982f.png">
 
 Prediction Page
-![image](https://user-images.githubusercontent.com/57321948/189115660-d2b0ec88-77b2-4c04-8f5d-43d12e159e6a.png)
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/57321948/189521574-c37fdde8-90b3-4d0a-ad01-b123867cdf9c.png">
 
