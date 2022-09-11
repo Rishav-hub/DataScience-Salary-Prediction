@@ -1,0 +1,151 @@
+{% extends 'header.html' %}
+
+{% block head %}
+
+
+<title>Data Science Salary Predictor</title>
+{% endblock %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col-md-6 col-sm-12 col-xs-6 col-lg-6">
+
+
+        <form action="/predict" method="post">
+            <legend>Data Science Salary Prediction Form</legend>
+            <div class="mb-3">
+                <label class="form-label">Years of Work</label>
+                <input class="form-control" type="int" name="work_year" placeholder="Enter a value of Year of Work"
+                    required />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Exeperience Level</label>
+                <!-- <input class="form-control" type="text" name="experience_level" placeholder="Enter a value of experience level" -->
+                    <!-- required /> -->
+                    <select class="option" type="text" name="experience_level">
+                        <option disabled="disabled" selected="selected">--Choose option--</option>
+                                  <option value=0>EN</option>
+                                  <option value=1>EX</option>
+                                  <option value=2>MI</option>
+                                  <option value=3>SE</option>
+                    </select>
+
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Employment Type</label>
+                    <select class="option" type="text" name="employment_type">
+                        <option disabled="disabled" selected="selected">--Choose option--</option>
+                                  <option value=0>Contract</option>
+                                  <option value=1>Freelance</option>
+                                  <option value=2>Full-time</option>
+                                  <option value=3>Part-time</option>
+                    </select>
+
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Employee Residence</label>
+                    <select class="option" type="text" name="employee_residence">
+                        <option disabled="disabled" selected="selected">--Choose option--</option>
+                                <option value=0>CA</option>
+                                <option value=1>DE</option>
+                                <option value=2>GB</option>
+                                <option value=3>IN</option>
+                                <option value=4>Others</option>
+                                <option value=5>US</option>                                
+                    </select>
+
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Remote Ratio</label>
+                <input class="form-control" type="int" name="remote_ratio"
+                    placeholder="Enter Remote Ratio" required />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Company Location</label>
+                    <select class="option" type="text" name="company_location">
+                        <option disabled="disabled" selected="selected">--Choose option--</option>
+                            <option value=0>CA</option>
+                            <option value=1>DE</option>
+                            <option value=2>GB</option>
+                            <option value=3>IN</option>
+                            <option value=4>Others</option>
+                            <option value=5>US</option>                               
+                    </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Company Size</label>
+                    <select class="option" type="text" name="company_size">
+                        <option disabled="disabled" selected="selected">--Choose option--</option>
+                                <option value=0>L</option>
+                                <option value=1>M</option>
+                                <option value=2>S</option>
+                    </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Job Title</label>
+                    <select class="option" type="text" name="job_title">
+                        <option disabled="disabled" selected="selected">--Choose option--</option>
+                                <option value=0>Data Analyst</option>
+                                <option value=1>Data Engineer</option>
+                                <option value=2>Data Scientist</option>
+                                <option value=3>Machine Learning Engineer</option>
+                                <option value=4>Manager</option>
+                                <option value=5>Others</option>
+                    </select>
+            </div>
+            <div class="mb-3">
+
+                <input class="btn btn-primary" type="submit" value="Predict Salary" required />
+            </div>
+
+        </form>
+    </div>
+
+    <div class="col-md-6 col-sm-12 col-xs-6 col-lg-6">
+        <div class="card">
+            <div class="card-header">
+              Data Science Prediction
+            </div>
+            <div class="card-body">
+        {% if context['salary_value'] is not none %}
+        <table class="table table-striped">
+            <caption>Data Science Prediction </caption>
+            <tr>
+                <th>Input Feature</th>
+                <th>Feature Value</th>
+
+            </tr>
+            {% for column,value in context['salary_data'].items() %}
+
+
+
+            <tr>
+                <td>{{column}}</td>
+                <td>{{value[0]}}</td>
+            </tr>
+
+            {% endfor %}
+            <tr>
+
+                <td>Type </td>
+                <td>
+                    {{ context['salary_value'] }}
+                </td>
+            </tr>
+        </table>
+
+        {% else %}
+       
+              <h5 class="card-title">Submit Form</h5>
+              <p class="card-text">Kindly provide necessary information to predict salary</p>
+            
+         
+
+        {% endif %}
+        Go to <a href="/" class="btn btn-primary">Home</a>
+    </div>
+</div>
+    </div>
+
+    {% endblock %}

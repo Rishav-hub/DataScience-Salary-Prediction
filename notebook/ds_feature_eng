@@ -1,0 +1,608 @@
+work_year,experience_level,employment_type,employee_residence,remote_ratio,company_location,company_size,Updated_Job_Title
+2020,MI,Full-time,DE,0,DE,L,Data Scientist
+2020,SE,Full-time,Others,0,Others,S,Machine Learning Engineer
+2020,SE,Full-time,GB,50,GB,M,Data Engineer
+2020,MI,Full-time,Others,0,Others,S,Data Analyst
+2020,SE,Full-time,US,50,US,L,Machine Learning Engineer
+2020,EN,Full-time,US,100,US,L,Data Analyst
+2020,SE,Full-time,US,100,US,S,Manager
+2020,MI,Full-time,Others,50,Others,L,Data Scientist
+2020,MI,Full-time,US,100,US,L,Data Analyst
+2020,SE,Full-time,Others,50,Others,S,Manager
+2020,EN,Full-time,Others,0,Others,S,Data Scientist
+2020,MI,Full-time,IN,0,IN,L,Data Scientist
+2020,EN,Full-time,Others,0,Others,M,Data Scientist
+2020,MI,Full-time,US,100,US,L,Manager
+2020,MI,Full-time,US,100,US,L,Data Analyst
+2020,MI,Full-time,Others,50,Others,L,Data Analyst
+2020,EN,Full-time,Others,100,Others,S,Data Engineer
+2020,SE,Full-time,Others,100,GB,S,Data Engineer
+2020,EN,Full-time,IN,50,IN,M,Data Scientist
+2020,MI,Full-time,Others,100,US,M,Manager
+2020,MI,Full-time,Others,0,Others,M,Machine Learning Engineer
+2020,MI,Full-time,IN,100,IN,L,Data Analyst
+2020,SE,Full-time,Others,50,Others,L,Data Engineer
+2020,MI,Full-time,US,0,US,M,Data Analyst
+2020,MI,Full-time,Others,0,Others,L,Manager
+2020,EX,Full-time,US,100,US,L,Manager
+2020,EN,Full-time,Others,50,Others,L,Data Scientist
+2020,SE,Full-time,Others,0,Others,S,Data Engineer
+2020,EN,Contract,US,100,US,L,Data Analyst
+2020,SE,Full-time,CA,50,CA,L,Manager
+2020,MI,Full-time,DE,100,DE,S,Manager
+2020,EN,Full-time,US,100,US,L,Data Engineer
+2020,SE,Full-time,Others,100,US,L,Data Scientist
+2020,MI,Full-time,US,0,US,M,Data Scientist
+2020,MI,Full-time,Others,50,Others,L,Data Analyst
+2020,MI,Full-time,Others,50,Others,L,Data Engineer
+2020,MI,Full-time,US,100,US,L,Data Scientist
+2020,EN,Full-time,US,50,US,L,Machine Learning Engineer
+2020,EN,Full-time,Others,100,Others,S,Data Analyst
+2020,EN,Full-time,US,100,US,S,Machine Learning Engineer
+2020,MI,Full-time,Others,100,US,S,Data Scientist
+2020,EX,Full-time,Others,50,Others,L,Manager
+2020,MI,Full-time,Others,0,Others,M,Machine Learning Engineer
+2020,MI,Full-time,US,100,US,L,Data Engineer
+2020,MI,Full-time,GB,50,GB,L,Data Engineer
+2020,EN,Part-time,DE,100,DE,S,Machine Learning Engineer
+2020,MI,Full-time,GB,100,GB,S,Data Scientist
+2020,SE,Full-time,US,100,US,L,Data Engineer
+2020,MI,Full-time,US,100,US,L,Data Scientist
+2020,MI,Full-time,Others,50,Others,L,Data Engineer
+2020,EN,Full-time,IN,0,IN,S,Data Analyst
+2020,EN,Full-time,US,100,US,L,Data Analyst
+2020,EN,Full-time,Others,50,Others,S,Data Scientist
+2020,EN,Full-time,Others,100,DE,L,Data Engineer
+2020,SE,Freelance,Others,100,US,S,Machine Learning Engineer
+2020,SE,Full-time,DE,100,DE,M,Data Scientist
+2020,MI,Full-time,Others,100,Others,M,Data Scientist
+2020,MI,Full-time,US,100,US,M,Data Scientist
+2020,SE,Full-time,US,50,US,L,Data Scientist
+2020,MI,Full-time,US,100,US,M,Data Scientist
+2020,MI,Full-time,US,100,US,L,Data Engineer
+2020,MI,Full-time,Others,100,US,M,Data Engineer
+2020,EN,Part-time,Others,50,Others,S,Data Scientist
+2020,SE,Full-time,US,100,US,L,Data Scientist
+2020,SE,Full-time,Others,100,Others,S,Machine Learning Engineer
+2020,EN,Full-time,DE,50,DE,S,Data Scientist
+2020,EN,Full-time,DE,0,DE,S,Data Scientist
+2020,SE,Full-time,US,100,US,M,Manager
+2020,EN,Full-time,US,100,US,S,Data Scientist
+2020,SE,Full-time,Others,0,Others,S,Data Scientist
+2020,MI,Full-time,Others,50,Others,S,Data Scientist
+2020,MI,Full-time,Others,50,Others,S,Data Scientist
+2021,EN,Full-time,GB,50,GB,L,Data Scientist
+2021,EX,Full-time,IN,100,US,L,Data Analyst
+2021,EX,Full-time,US,100,US,L,Manager
+2021,SE,Full-time,Others,50,Others,L,Data Scientist
+2021,MI,Full-time,US,100,US,M,Data Analyst
+2021,MI,Part-time,IN,50,IN,M,Others
+2021,MI,Contract,US,100,US,L,Machine Learning Engineer
+2021,EN,Full-time,US,100,US,M,Data Analyst
+2021,SE,Full-time,DE,100,DE,L,Data Analyst
+2021,MI,Full-time,US,100,US,L,Data Engineer
+2021,MI,Full-time,GB,50,CA,L,Data Scientist
+2021,MI,Full-time,Others,100,Others,S,Machine Learning Engineer
+2021,EX,Full-time,Others,100,Others,L,Manager
+2021,MI,Full-time,Others,100,Others,L,Data Engineer
+2021,EN,Full-time,Others,50,Others,M,Data Analyst
+2021,MI,Full-time,US,100,US,L,Data Analyst
+2021,SE,Full-time,US,100,US,L,Manager
+2021,SE,Full-time,Others,100,US,S,Data Analyst
+2021,SE,Full-time,Others,100,Others,L,Data Analyst
+2021,EN,Full-time,DE,100,DE,S,Data Scientist
+2021,MI,Full-time,IN,100,IN,L,Manager
+2021,SE,Full-time,US,0,US,L,Manager
+2021,EN,Full-time,IN,50,IN,L,Data Scientist
+2021,MI,Full-time,Others,50,Others,L,Data Engineer
+2021,EN,Part-time,Others,100,US,S,Data Scientist
+2021,MI,Full-time,US,100,US,L,Data Analyst
+2021,EN,Full-time,US,100,US,M,Others
+2021,MI,Full-time,DE,100,US,S,Others
+2021,MI,Full-time,US,0,US,L,Data Analyst
+2021,SE,Full-time,US,100,US,L,Data Engineer
+2021,MI,Full-time,Others,50,US,L,Data Analyst
+2021,MI,Full-time,US,0,US,L,Data Analyst
+2021,MI,Full-time,US,0,US,L,Data Scientist
+2021,MI,Full-time,GB,50,GB,L,Data Analyst
+2021,MI,Full-time,CA,100,CA,L,Data Scientist
+2021,SE,Full-time,US,100,US,S,Data Engineer
+2021,SE,Full-time,US,100,US,M,Data Engineer
+2021,EN,Full-time,IN,100,IN,L,Data Engineer
+2021,SE,Full-time,DE,50,DE,L,Machine Learning Engineer
+2021,SE,Full-time,GB,100,GB,M,Manager
+2021,SE,Full-time,GB,100,GB,S,Manager
+2021,EN,Part-time,Others,100,US,M,Data Scientist
+2021,MI,Full-time,Others,100,Others,L,Data Engineer
+2021,EN,Full-time,US,100,US,L,Machine Learning Engineer
+2021,MI,Full-time,Others,100,Others,L,Data Scientist
+2021,MI,Full-time,Others,100,Others,M,Data Engineer
+2021,EN,Full-time,US,100,US,S,Data Analyst
+2021,MI,Full-time,US,100,US,L,Data Engineer
+2021,MI,Full-time,Others,50,Others,M,Data Engineer
+2021,SE,Full-time,US,100,US,M,Data Engineer
+2021,EN,Full-time,US,100,US,M,Data Analyst
+2021,EN,Full-time,GB,0,GB,L,Data Scientist
+2021,EN,Part-time,Others,50,Others,M,Data Analyst
+2021,MI,Full-time,US,100,US,L,Data Scientist
+2021,SE,Full-time,US,50,US,S,Machine Learning Engineer
+2021,MI,Full-time,IN,0,IN,S,Data Scientist
+2021,EN,Full-time,IN,100,IN,S,Machine Learning Engineer
+2021,SE,Full-time,IN,50,IN,L,Manager
+2021,EN,Full-time,Others,50,Others,S,Machine Learning Engineer
+2021,EN,Full-time,Others,50,Others,M,Data Scientist
+2021,MI,Full-time,Others,100,US,M,Machine Learning Engineer
+2021,SE,Full-time,Others,100,Others,M,Machine Learning Engineer
+2021,EN,Full-time,US,0,US,S,Data Scientist
+2021,MI,Full-time,US,100,US,M,Data Analyst
+2021,MI,Full-time,Others,50,Others,S,Machine Learning Engineer
+2021,MI,Full-time,Others,50,Others,S,Machine Learning Engineer
+2021,SE,Full-time,US,0,US,L,Data Scientist
+2021,EN,Full-time,US,100,US,M,Data Scientist
+2021,MI,Full-time,US,100,US,L,Data Analyst
+2021,SE,Full-time,US,0,US,L,Manager
+2021,SE,Full-time,US,0,US,L,Manager
+2021,MI,Full-time,US,100,US,S,Data Scientist
+2021,MI,Full-time,US,100,US,L,Data Engineer
+2021,SE,Full-time,Others,50,Others,M,Machine Learning Engineer
+2021,MI,Full-time,Others,50,Others,M,Data Scientist
+2021,MI,Full-time,US,100,US,L,Data Engineer
+2021,SE,Full-time,US,100,US,L,Manager
+2021,SE,Full-time,Others,100,US,S,Data Engineer
+2021,SE,Full-time,Others,0,Others,S,Manager
+2021,MI,Full-time,US,100,US,M,Data Scientist
+2021,MI,Full-time,CA,100,CA,L,Data Scientist
+2021,EN,Full-time,Others,100,Others,L,Data Scientist
+2021,SE,Full-time,US,100,US,L,Manager
+2021,SE,Full-time,CA,50,CA,L,Data Engineer
+2021,MI,Full-time,Others,100,Others,M,Data Scientist
+2021,MI,Full-time,US,50,US,L,Machine Learning Engineer
+2021,SE,Full-time,US,100,US,M,Manager
+2021,EN,Full-time,US,100,US,S,Machine Learning Engineer
+2021,EX,Full-time,Others,50,Others,L,Manager
+2021,EX,Full-time,Others,0,Others,M,Manager
+2021,MI,Full-time,Others,50,Others,L,Data Engineer
+2021,EN,Full-time,DE,50,DE,L,Data Scientist
+2021,EX,Full-time,DE,50,DE,M,Manager
+2021,SE,Full-time,US,100,US,L,Others
+2021,EN,Full-time,US,100,US,L,Data Engineer
+2021,EX,Full-time,US,0,US,L,Manager
+2021,EN,Full-time,US,50,US,S,Data Analyst
+2021,MI,Full-time,US,100,US,L,Data Engineer
+2021,MI,Full-time,US,100,US,L,Data Engineer
+2021,MI,Full-time,GB,100,GB,L,Data Engineer
+2021,EN,Full-time,US,100,US,S,Data Analyst
+2021,SE,Full-time,US,100,US,L,Data Scientist
+2021,SE,Full-time,Others,50,Others,L,Data Scientist
+2021,SE,Full-time,US,100,US,L,Manager
+2021,MI,Full-time,Others,0,Others,S,Data Scientist
+2021,MI,Full-time,Others,100,Others,L,Data Scientist
+2021,EN,Full-time,US,50,US,S,Machine Learning Engineer
+2021,MI,Full-time,IN,100,US,S,Data Scientist
+2021,MI,Full-time,IN,0,IN,L,Data Engineer
+2021,MI,Full-time,DE,50,DE,L,Data Scientist
+2021,MI,Full-time,Others,0,US,L,Data Engineer
+2021,SE,Full-time,GB,50,GB,L,Data Analyst
+2021,MI,Freelance,Others,50,Others,M,Machine Learning Engineer
+2021,MI,Full-time,Others,100,Others,M,Data Engineer
+2021,SE,Full-time,Others,100,GB,M,Data Analyst
+2021,EX,Full-time,Others,100,Others,S,Data Scientist
+2021,SE,Full-time,Others,50,GB,S,Data Engineer
+2021,MI,Full-time,Others,50,Others,S,Machine Learning Engineer
+2021,SE,Full-time,US,100,Others,L,Manager
+2021,EN,Full-time,Others,50,Others,M,Machine Learning Engineer
+2021,MI,Full-time,Others,0,Others,S,Data Engineer
+2021,SE,Full-time,US,100,US,L,Manager
+2021,SE,Full-time,CA,50,CA,L,Data Scientist
+2021,MI,Full-time,US,50,US,L,Data Scientist
+2021,EN,Full-time,Others,100,Others,S,Data Analyst
+2021,SE,Full-time,IN,100,IN,L,Machine Learning Engineer
+2021,SE,Full-time,IN,50,US,L,Manager
+2021,EN,Full-time,US,100,US,S,Data Scientist
+2021,MI,Full-time,DE,50,Others,M,Data Scientist
+2021,SE,Full-time,US,100,US,M,Machine Learning Engineer
+2021,MI,Full-time,Others,100,Others,L,Data Scientist
+2021,SE,Full-time,Others,100,US,S,Data Scientist
+2021,MI,Full-time,US,100,US,L,Data Scientist
+2021,MI,Full-time,Others,0,Others,S,Data Scientist
+2021,SE,Full-time,US,100,US,L,Machine Learning Engineer
+2021,SE,Full-time,US,0,US,M,Data Engineer
+2021,MI,Freelance,Others,0,US,L,Data Engineer
+2021,SE,Full-time,US,0,US,L,Manager
+2021,MI,Full-time,Others,50,Others,L,Machine Learning Engineer
+2021,MI,Full-time,Others,50,Others,S,Data Scientist
+2021,MI,Full-time,Others,50,GB,S,Data Engineer
+2021,EN,Full-time,IN,0,Others,L,Data Engineer
+2021,EN,Full-time,DE,50,DE,M,Machine Learning Engineer
+2021,SE,Full-time,US,100,US,L,Data Engineer
+2021,EN,Part-time,Others,50,Others,S,Machine Learning Engineer
+2021,MI,Full-time,DE,50,DE,L,Data Scientist
+2021,MI,Full-time,Others,100,Others,M,Machine Learning Engineer
+2021,SE,Full-time,US,100,US,L,Manager
+2021,MI,Full-time,Others,100,Others,L,Machine Learning Engineer
+2021,MI,Full-time,GB,50,GB,L,Data Scientist
+2021,MI,Full-time,IN,0,IN,M,Data Scientist
+2021,MI,Full-time,GB,50,GB,L,Data Scientist
+2021,SE,Full-time,US,100,CA,L,Machine Learning Engineer
+2021,EX,Contract,US,100,US,S,Data Scientist
+2021,SE,Full-time,CA,100,CA,S,Data Scientist
+2021,MI,Full-time,DE,50,DE,L,Data Scientist
+2021,SE,Full-time,US,0,US,L,Data Scientist
+2021,SE,Full-time,CA,100,CA,M,Data Analyst
+2021,EN,Full-time,IN,100,IN,L,Data Engineer
+2021,SE,Full-time,US,100,US,S,Machine Learning Engineer
+2021,SE,Full-time,US,100,US,L,Manager
+2021,SE,Full-time,US,100,US,L,Data Analyst
+2021,MI,Full-time,US,100,US,L,Data Engineer
+2021,MI,Full-time,US,0,US,S,Manager
+2021,MI,Full-time,CA,100,CA,M,Data Scientist
+2021,MI,Full-time,Others,100,Others,M,Data Scientist
+2021,EN,Full-time,Others,0,Others,M,Data Scientist
+2021,EN,Full-time,IN,50,IN,M,Data Engineer
+2021,SE,Full-time,CA,100,CA,L,Data Scientist
+2021,MI,Full-time,US,100,US,L,Data Analyst
+2021,MI,Full-time,US,100,US,L,Data Engineer
+2021,SE,Full-time,US,100,US,L,Data Scientist
+2021,EN,Full-time,IN,100,Others,S,Data Scientist
+2021,MI,Full-time,GB,50,GB,L,Data Engineer
+2021,EN,Full-time,Others,50,Others,L,Data Scientist
+2021,MI,Full-time,Others,0,Others,M,Data Engineer
+2021,SE,Full-time,GB,50,GB,L,Data Engineer
+2021,SE,Full-time,US,100,US,M,Data Analyst
+2021,MI,Full-time,US,50,US,L,Data Scientist
+2021,EN,Full-time,US,100,US,S,Data Scientist
+2021,EX,Full-time,US,100,US,L,Data Engineer
+2021,EN,Full-time,IN,100,IN,M,Data Scientist
+2021,MI,Full-time,US,100,US,L,Data Analyst
+2021,SE,Full-time,CA,50,CA,M,Data Engineer
+2021,MI,Full-time,US,100,US,L,Data Engineer
+2021,SE,Full-time,DE,100,DE,M,Data Scientist
+2021,SE,Full-time,US,50,US,L,Machine Learning Engineer
+2021,EX,Full-time,DE,0,DE,L,Manager
+2021,MI,Full-time,US,50,US,L,Data Scientist
+2021,SE,Full-time,DE,50,DE,L,Data Analyst
+2021,MI,Full-time,IN,100,IN,S,Data Scientist
+2021,SE,Full-time,IN,0,IN,L,Machine Learning Engineer
+2021,MI,Full-time,Others,100,DE,S,Data Scientist
+2021,SE,Full-time,Others,50,US,S,Manager
+2021,MI,Full-time,US,0,US,M,Data Engineer
+2021,MI,Full-time,US,0,US,M,Data Engineer
+2021,MI,Full-time,Others,100,Others,M,Data Engineer
+2021,EN,Full-time,DE,50,DE,M,Data Engineer
+2021,EN,Full-time,US,100,US,L,Data Engineer
+2021,SE,Full-time,Others,0,Others,M,Machine Learning Engineer
+2021,EN,Full-time,DE,0,DE,L,Data Scientist
+2021,EN,Full-time,Others,100,DE,S,Machine Learning Engineer
+2021,SE,Full-time,Others,50,Others,M,Data Scientist
+2021,EN,Full-time,US,100,US,M,Data Scientist
+2021,EN,Full-time,US,50,US,L,Data Scientist
+2021,SE,Full-time,Others,100,Others,L,Data Scientist
+2021,SE,Full-time,Others,50,Others,L,Data Scientist
+2021,EN,Full-time,Others,100,Others,L,Data Analyst
+2021,MI,Full-time,US,100,US,L,Data Engineer
+2021,EN,Full-time,Others,0,Others,L,Data Scientist
+2021,MI,Part-time,Others,100,Others,L,Data Engineer
+2021,SE,Contract,US,100,US,M,Data Scientist
+2021,MI,Full-time,Others,50,Others,L,Data Scientist
+2021,SE,Full-time,IN,50,IN,L,Manager
+2021,SE,Full-time,Others,100,Others,L,Manager
+2021,MI,Full-time,US,50,US,L,Data Scientist
+2021,MI,Full-time,Others,50,Others,L,Machine Learning Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,MI,Full-time,US,0,US,M,Data Scientist
+2022,MI,Full-time,US,0,US,M,Data Scientist
+2022,MI,Full-time,US,100,US,M,Data Engineer
+2022,MI,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,GB,0,GB,M,Data Scientist
+2022,SE,Full-time,GB,0,GB,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,EN,Full-time,GB,100,GB,M,Data Engineer
+2022,SE,Full-time,US,0,US,M,Data Analyst
+2022,SE,Full-time,US,0,US,M,Data Analyst
+2022,MI,Full-time,US,0,US,M,Data Analyst
+2022,MI,Full-time,US,0,US,M,Data Analyst
+2022,EX,Full-time,US,100,US,M,Data Engineer
+2022,EX,Full-time,US,100,US,M,Data Engineer
+2022,MI,Full-time,GB,0,GB,M,Data Scientist
+2022,MI,Full-time,GB,0,GB,M,Data Scientist
+2022,MI,Full-time,GB,0,GB,M,Data Engineer
+2022,MI,Full-time,GB,0,GB,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,EN,Full-time,GB,100,GB,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,0,US,M,Data Engineer
+2022,SE,Full-time,US,0,US,M,Data Engineer
+2022,SE,Full-time,US,0,US,M,Data Engineer
+2022,SE,Full-time,US,0,US,M,Data Engineer
+2022,SE,Full-time,US,0,US,L,Data Scientist
+2022,SE,Full-time,US,0,US,L,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,EX,Full-time,US,100,US,M,Data Analyst
+2022,EX,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,MI,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,MI,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,EX,Full-time,US,100,US,M,Manager
+2022,EX,Full-time,US,100,US,M,Manager
+2022,EX,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,0,US,M,Data Engineer
+2022,SE,Full-time,US,0,US,M,Data Scientist
+2022,SE,Full-time,US,0,US,L,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Manager
+2022,SE,Full-time,US,100,US,M,Manager
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,GB,0,GB,M,Data Engineer
+2022,SE,Full-time,GB,0,GB,M,Data Engineer
+2022,SE,Full-time,US,0,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,CA,100,CA,M,Data Engineer
+2022,SE,Full-time,CA,100,CA,M,Data Engineer
+2022,SE,Full-time,CA,100,CA,M,Data Analyst
+2022,SE,Full-time,CA,100,CA,M,Data Analyst
+2022,SE,Full-time,CA,100,CA,M,Data Analyst
+2022,SE,Full-time,CA,100,CA,M,Data Analyst
+2022,SE,Full-time,US,0,US,L,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,0,US,M,Data Engineer
+2022,MI,Full-time,US,0,US,S,Data Analyst
+2022,EX,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,0,US,M,Machine Learning Engineer
+2022,SE,Full-time,US,0,US,M,Machine Learning Engineer
+2022,MI,Full-time,Others,0,Others,M,Others
+2022,MI,Full-time,Others,0,Others,M,Others
+2022,EX,Full-time,CA,100,CA,S,Manager
+2022,SE,Full-time,US,0,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,EX,Full-time,IN,50,IN,L,Manager
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,EN,Full-time,GB,100,GB,L,Machine Learning Engineer
+2022,SE,Full-time,US,0,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,MI,Full-time,GB,0,GB,M,Machine Learning Engineer
+2022,MI,Full-time,GB,0,GB,M,Machine Learning Engineer
+2022,MI,Full-time,US,0,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Manager
+2022,SE,Full-time,US,100,US,M,Manager
+2022,MI,Full-time,Others,100,DE,M,Machine Learning Engineer
+2022,MI,Full-time,GB,0,GB,M,Data Engineer
+2022,SE,Full-time,US,100,US,L,Data Scientist
+2022,SE,Full-time,US,100,US,L,Data Scientist
+2022,SE,Full-time,US,100,US,L,Data Engineer
+2022,SE,Full-time,US,100,US,L,Data Engineer
+2022,SE,Full-time,US,0,US,M,Data Analyst
+2022,SE,Full-time,US,0,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,MI,Full-time,GB,0,GB,M,Data Engineer
+2022,MI,Full-time,US,0,US,S,Data Analyst
+2022,SE,Full-time,US,100,US,L,Data Engineer
+2022,MI,Full-time,GB,100,GB,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,MI,Full-time,GB,0,GB,M,Data Scientist
+2022,MI,Full-time,GB,0,GB,M,Data Scientist
+2022,MI,Full-time,Others,100,Others,M,Data Engineer
+2022,MI,Full-time,Others,100,Others,M,Data Engineer
+2022,MI,Full-time,GB,100,GB,M,Data Engineer
+2022,MI,Full-time,GB,100,GB,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,Others,100,Others,L,Data Engineer
+2022,MI,Full-time,US,0,US,M,Data Engineer
+2022,MI,Full-time,US,100,US,L,Machine Learning Engineer
+2022,MI,Full-time,US,100,US,L,Machine Learning Engineer
+2022,MI,Full-time,US,100,US,M,Manager
+2022,MI,Full-time,US,100,US,M,Manager
+2022,SE,Full-time,US,0,US,M,Data Scientist
+2022,SE,Full-time,US,0,US,M,Data Scientist
+2022,MI,Full-time,US,0,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,L,Data Engineer
+2022,MI,Full-time,Others,100,Others,M,Data Engineer
+2022,SE,Full-time,US,0,US,L,Data Scientist
+2022,MI,Full-time,GB,100,GB,M,Data Analyst
+2022,MI,Full-time,Others,100,Others,M,Data Analyst
+2022,MI,Full-time,Others,100,Others,M,Data Analyst
+2022,MI,Full-time,Others,100,Others,M,Data Engineer
+2022,MI,Full-time,Others,100,Others,M,Data Engineer
+2022,MI,Full-time,GB,100,GB,M,Data Engineer
+2022,MI,Full-time,GB,100,GB,M,Data Engineer
+2022,MI,Full-time,Others,100,Others,M,Data Engineer
+2022,MI,Full-time,Others,100,Others,M,Data Engineer
+2022,SE,Full-time,US,0,US,M,Machine Learning Engineer
+2022,SE,Full-time,US,0,US,M,Machine Learning Engineer
+2022,MI,Full-time,Others,100,Others,M,Data Analyst
+2022,MI,Full-time,Others,100,Others,M,Data Analyst
+2022,MI,Full-time,GB,100,GB,M,Data Engineer
+2022,MI,Full-time,GB,100,GB,M,Data Engineer
+2022,SE,Full-time,US,0,US,L,Data Scientist
+2022,MI,Full-time,Others,100,Others,M,Data Engineer
+2022,SE,Full-time,US,100,US,L,Data Engineer
+2022,SE,Full-time,US,100,US,L,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,EN,Full-time,Others,100,Others,L,Machine Learning Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,MI,Full-time,CA,100,CA,M,Machine Learning Engineer
+2022,EX,Full-time,CA,50,CA,L,Manager
+2022,MI,Full-time,US,100,US,S,Machine Learning Engineer
+2022,EN,Full-time,US,0,US,M,Machine Learning Engineer
+2022,MI,Full-time,US,50,US,L,Machine Learning Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,DE,0,DE,M,Manager
+2022,MI,Full-time,IN,100,IN,M,Data Analyst
+2022,MI,Full-time,IN,100,IN,L,Data Scientist
+2022,MI,Full-time,Others,50,Others,L,Machine Learning Engineer
+2022,EN,Full-time,US,50,US,L,Data Analyst
+2022,MI,Part-time,DE,50,DE,L,Data Engineer
+2022,EN,Full-time,IN,100,IN,M,Data Scientist
+2022,SE,Full-time,DE,100,DE,M,Data Scientist
+2022,EN,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,50,US,L,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,MI,Full-time,US,100,US,M,Data Analyst
+2022,MI,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,MI,Full-time,GB,0,GB,M,Data Scientist
+2022,MI,Full-time,GB,0,GB,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Machine Learning Engineer
+2022,MI,Full-time,US,100,US,M,Data Scientist
+2022,MI,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,Others,100,Others,S,Machine Learning Engineer
+2022,SE,Full-time,Others,100,Others,S,Machine Learning Engineer
+2022,EX,Full-time,US,100,US,M,Data Engineer
+2022,EX,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Machine Learning Engineer
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,EN,Part-time,Others,50,Others,M,Data Scientist
+2022,MI,Freelance,CA,100,US,M,Data Scientist
+2022,EN,Contract,Others,100,Others,M,Machine Learning Engineer
+2022,SE,Full-time,Others,100,US,M,Manager
+2022,MI,Full-time,CA,100,CA,S,Data Analyst
+2022,MI,Full-time,Others,100,Others,L,Data Scientist
+2022,SE,Full-time,CA,100,CA,M,Machine Learning Engineer
+2022,SE,Full-time,Others,100,US,M,Data Scientist
+2022,MI,Full-time,US,50,US,M,Machine Learning Engineer
+2022,EN,Full-time,Others,100,DE,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,Others,50,Others,L,Data Scientist
+2022,EN,Full-time,CA,100,CA,L,Data Scientist
+2022,SE,Full-time,Others,100,Others,L,Machine Learning Engineer
+2022,MI,Full-time,Others,100,Others,S,Manager
+2022,EN,Full-time,Others,100,Others,L,Data Scientist
+2022,MI,Full-time,Others,100,Others,L,Machine Learning Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,EN,Full-time,Others,50,Others,M,Data Scientist
+2022,MI,Full-time,Others,100,US,L,Machine Learning Engineer
+2022,MI,Full-time,Others,0,Others,L,Data Scientist
+2022,EN,Full-time,US,100,US,L,Data Scientist
+2022,MI,Full-time,US,100,US,L,Data Scientist
+2022,EN,Full-time,Others,100,Others,S,Others
+2022,MI,Full-time,CA,50,CA,L,Data Analyst
+2022,EN,Full-time,US,100,US,S,Data Engineer
+2022,SE,Full-time,Others,100,Others,S,Machine Learning Engineer
+2022,EN,Full-time,Others,0,Others,M,Data Analyst
+2022,MI,Full-time,Others,100,US,S,Data Scientist
+2022,SE,Full-time,US,100,US,M,Manager
+2022,MI,Full-time,Others,100,Others,M,Data Engineer
+2022,MI,Full-time,Others,0,Others,L,Data Scientist
+2022,SE,Full-time,US,100,US,L,Data Scientist
+2022,MI,Full-time,CA,100,CA,M,Data Scientist
+2022,EN,Full-time,Others,100,Others,M,Machine Learning Engineer
+2022,MI,Full-time,Others,100,Others,S,Data Analyst
+2022,SE,Full-time,US,100,US,L,Manager
+2022,MI,Full-time,US,100,US,L,Data Scientist
+2022,SE,Full-time,US,100,US,L,Data Scientist
+2022,MI,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,MI,Full-time,CA,0,CA,M,Data Analyst
+2022,MI,Full-time,CA,0,CA,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Machine Learning Engineer
+2022,SE,Full-time,US,100,US,M,Machine Learning Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,MI,Full-time,US,0,US,M,Data Scientist
+2022,MI,Full-time,US,0,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,MI,Full-time,US,0,US,M,Data Engineer
+2022,MI,Full-time,US,0,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,0,US,L,Data Scientist
+2022,SE,Full-time,US,0,US,L,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,0,US,M,Data Engineer
+2022,SE,Full-time,US,0,US,M,Data Scientist
+2022,SE,Full-time,US,0,US,M,Data Scientist
+2022,SE,Full-time,US,0,US,M,Data Analyst
+2022,SE,Full-time,US,0,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,0,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,MI,Full-time,GB,0,GB,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,MI,Full-time,GB,0,GB,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,0,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Manager
+2022,SE,Full-time,US,100,US,M,Manager
+2022,SE,Full-time,US,100,US,M,Data Scientist
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,MI,Full-time,US,100,US,M,Data Scientist
+2022,MI,Full-time,US,100,US,M,Data Scientist
+2022,EN,Full-time,CA,0,CA,M,Data Analyst
+2022,EN,Full-time,CA,0,CA,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,100,US,M,Data Engineer
+2022,SE,Full-time,US,0,US,M,Data Analyst
+2022,SE,Full-time,US,100,US,M,Data Analyst
+2022,MI,Full-time,IN,100,US,L,Data Scientist

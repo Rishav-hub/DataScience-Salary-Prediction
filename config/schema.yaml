@@ -1,0 +1,27 @@
+columns:
+  work_year: int
+  experience_level: str
+  employment_type: str
+  job_title: str
+  salary: int
+  salary_currency: str
+  salary_in_usd: int
+  employee_residence: str
+  remote_ratio: int
+  company_location: str
+  company_size: str
+
+numerical_columns:
+  - work_year
+  - salary
+  - salary_in_usd
+  - remote_ratio
+
+target_column: salary
+
+
+
+  
+
+
+
